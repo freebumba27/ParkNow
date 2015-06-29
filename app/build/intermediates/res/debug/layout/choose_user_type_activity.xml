@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:gravity="center_vertical|center_horizontal"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/buttonOwner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/blue_button"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="@string/owner_button"
+        android:textColor="@android:color/white"
+        android:onClick="goingToOwner" />
+
+    <Button
+        android:id="@+id/buttonRenter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/blue_button"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="@string/renter_button"
+        android:textColor="@android:color/white" 
+        android:layout_marginTop="10dp"
+        android:onClick="goingToRenter"/>
+
+</LinearLayout><!-- From: file:/E:/Anirban/Projects/my_workspace/ready_prototypes/ParkNow1/app/src/main/res/layout/choose_user_type_activity.xml -->

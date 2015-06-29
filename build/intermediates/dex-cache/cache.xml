@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-16876dbb12aa8d4d27734f4fa0fa1175e889e4c0.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-4393bc9b2ad5562aeb1b04f96b0916305df1c0a3.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-794bf2c3b693533859bedc7e648db9017cc30d6a.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-b773b0eddbac26337d87e2236d1b73a187a9a62e.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-d6eecd152b8f1283bfbadc354370bbecb5a006af.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-54554d38d4a118c3da9583c03e75d305dab1bd94.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-3f3e25bb1935c5a3a0464eb53beb23324a7801ba.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-7d84bd332fca61914fe2cb5ba702eaca6b565b87.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-13ff033a03187bf15d8095c702ff486110221541.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-a564e958c09e8a8460befcaaff8c8e4e5a4dcd3c.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-8a5e350f0e20804478aa3c33be29cc001cea006f.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-a6ae43eb1aea3288d75aea7d6440edb24b021002.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-9057d60d334594900bddcf5f12fa932902942c47.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-92574309fb91ff1d236794c353b0920dab7120b8.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-9c57e8cdd28308b0345ac10fccf8f7b57a0ad044.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-4af28788d88b99fbcde5cca1b85b9db8dfb89153.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-cc0ee9a6983afda12e139bef38d24ea32e89ebba.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-f3a6cb1a6812e97f7f30f8a2d085d9bbb4315dc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\anirban\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-a7d2c9c5101bf11cdcfc6ddfd1aab1057f390d21.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\libs\PayPalAndroidSDK-2.9.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="afd52bb6c8e272c0c2c38db26f908fcabce8e3c0">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\PayPalAndroidSDK-2.9.1-c7a58c79aa44c05ca8eac8259c208a9569889030.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-41ace06ea97e60fc7216f8510d4531dc437bae9f.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-525a498ad9340d5ae54bfdeeff0f73eeb2d770b4.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-cc77703c7a93894500f6dd43f415930b0b78af85.jar" />
+    </item>
+    <item
+        jar="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="E:\Anirban\Projects\my_workspace\ready_prototypes\ParkNow1\app\build\intermediates\pre-dexed\debug\classes-cf608296b975502e20985965d48e4501f9f2dbec.jar" />
+    </item>
+
+</items>

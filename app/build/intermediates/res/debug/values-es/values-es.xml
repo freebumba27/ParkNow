@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/E:/Anirban/Projects/my_workspace/ready_prototypes/ParkNow1/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="add_parking_space_title">Add new parking space</string>
+    <string name="address_hint">Address</string>
+    <string name="address_title">Address: </string>
+    <string name="all_field_mandatory">All fields are mandatory !!</string>
+    <string name="app_name">ParkNow</string>
+    <string name="area_desc">Area Description</string>
+    <string name="booked_history_button">Booked History</string>
+    <string name="booking_date_from_title">Booking date from: </string>
+    <string name="booking_date_hint">Select Date</string>
+    <string name="booking_date_to_title">Booking date to: </string>
+    <string name="booking_from_title">Booking from: </string>
+    <string name="booking_from_to_hint">Select Time</string>
+    <string name="booking_title">Booking details</string>
+    <string name="booking_upto_title">Booking upto: </string>
+    <string name="check_network">Please check your internet coonection ...</string>
+    <!-- From: file:/E:/Anirban/Projects/my_workspace/ready_prototypes/ParkNow1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-es/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Una aplicación necesita que Android Wear se actualice."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Esta aplicación no se ejecutará hasta que actualices Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Actualizar Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Habilitar servicios de Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Esta aplicación no funcionará si no habilitas los servicios de Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Habilitar servicios de Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Solicitada por <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Descargar servicios de Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Esta aplicación no se ejecutará si tu teléfono no tiene instalados los servicios de Google Play."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Esta aplicación no se ejecutará si tu tablet no tiene instalados los servicios de Google Play."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Descargar servicios de Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"La cuenta especificada no existe en este dispositivo. Selecciona otra cuenta."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Cuenta no válida"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Una aplicación requiere que se habiliten los servicios de Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Se necesita una conexión de datos para establecer conexión con los servicios de Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Error de red"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Una aplicación requiere la instalación de servicios de Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Una aplicación requiere una actualización de servicios de Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Error de servicios de Google Play"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"Error al iniciar sesión en la cuenta especificada. Selecciona otra cuenta."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"Error al iniciar sesión"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Error desconocido relacionado con los servicios de Google Play"</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Tu dispositivo no es compatible con los servicios de Google Play, de los cuales dependen tus aplicaciones. Para obtener asistencia, ponte en contacto el fabricante."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Servicios de Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Actualizar"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Esta aplicación no se ejecutará si no actualizas los servicios de Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Actualizar servicios de Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Abrir en teléfono"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Iniciar sesión"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <string msgid="5000919058582214855" name="commono_google_play_services_api_unavailable_text">"Esta aplicación requiere uno o varios servicios de Google Play que no están disponibles en este momento. Para obtener ayuda, ponte en contacto con el desarrollador."</string>
+    <!-- From: file:/E:/Anirban/Projects/my_workspace/ready_prototypes/ParkNow1/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="emaiId_hint">Email Id</string>
+    <string name="error_on_date_time">To date and time should be higher then From date and time or more than 1 Hour.</string>
+    <string name="give_a_review">Give Your Review</string>
+    <string name="hourly_rate_title">Hourly rate: </string>
+    <string name="login_button">Login</string>
+    <string name="login_check_credentials_error">Please check your credentials ...</string>
+    <string name="login_title">Ingresar Registro</string>
+    <string name="mobileNo_hint">Mobile No.</string>
+    <string name="move_marker">To move the marker position hold the marker.</string>
+    <string name="name_hint">Name</string>
+    <string name="no_data_found">No Booking History Found !!</string>
+    <string name="order_details_inserted_successful_message">Thanks for booking the parking space !!\nDrive Safely...</string>
+    <string name="other_error">Something went wrong !! Please try again.</string>
+    <string name="owner_button">Owner</string>
+    <string name="parking_space_added_message">Thanks for adding your parking space.</string>
+    <string name="password_hint">contraseña</string>
+    <string name="password_missmatch_error">Password and Confirm Password mismatching !!</string>
+    <string name="payment_done_but_server_error">Payment done but due to some network issue we can\u0027t update our server.Please contact our admistrator.</string>
+    <string name="placeDescTitle">Description: </string>
+    <string name="place_marker_error">Please place a marker on the map at your parking area.</string>
+    <string name="price_hint">Price per hour</string>
+    <string name="register_button">Register</string>
+    <string name="register_now">Regístrate Ahora</string>
+    <string name="registration_dialog">Please wait registering ...</string>
+    <string name="registration_successful_message">Thanks for registering !!</string>
+    <string name="registration_title">User Registration</string>
+    <string name="renter_button">Renter</string>
+    <string name="review">User Review</string>
+    <string name="review_successful_message">Thanks for your valuable feedback.</string>
+    <string name="save">Save</string>
+    <string name="save_button">Save My Space</string>
+    <string name="server_error">Server error !! Please try again.</string>
+    <string name="splash_screen_title">ParkNow por ADN Trading</string>
+    <string name="tap_to_back">Tap back button in order to exit</string>
+    <string name="total_desc">Total Amount: </string>
+    <string name="unable_to_create_map">Sorry! unable to create maps</string>
+    <string name="user_exists_error">Username already exists ...</string>
+    <string name="user_review_already_exists_error">You have already given review for this parking spot.</string>
+    <string name="username_hint">Nombre de usuario</string>
+    <string name="wait_a_min_dialog_message">Please wait a min ...</string>
+    <!-- From: file:/E:/Anirban/Projects/my_workspace/ready_prototypes/ParkNow1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/res/values-es/wallet_strings.xml -->
+    <eat-comment/>
+    <string name="wallet_buy_button_place_holder">Comprar con Google</string>
+    <!-- From: file:/E:/Anirban/Projects/my_workspace/ready_prototypes/ParkNow1/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="write_something">Right something about the place</string>
+</resources>
